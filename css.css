@@ -1,0 +1,32 @@
+body {
+    font-size: 20px;
+}
+
+nav {
+    font-size: 30px;
+    width: fit-content;
+    margin: auto;
+}
+
+h1 {
+    color: red;
+    font-size: 45px;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+h2 {
+    margin: 20px auto; 
+    width: fit-content;
+    color: blueviolet;
+}
+
+h3 {
+    color: darkgoldenrod;
+}
+
+.center {
+    width: fit-content;
+    margin: 20px auto ;
+    
+}
